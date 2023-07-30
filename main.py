@@ -3,7 +3,7 @@ import importlib
 
 
 # Store API key in environment variable
-os.environ['OPENAI_API_KEY'] = 'YOUR_OPENAI_API_KEY'
+os.environ['OPENAI_API_KEY'] = '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'
 
 
 def list_bots():
